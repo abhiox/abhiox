@@ -4,9 +4,13 @@ Lead software engineer, ~10 years deep into frontend with full-stack work on the
 
 ## What I Actually Do
  
-I currently build full-stack products — React/Next.js on the front, Go, Python and Node.js on the back, AWS holding it all together (mostly). Lately I've been pulled into the GenAI rabbit hole: become an AI engineer before Skynet takes on the world(sshh.. they're coming!).
+I currently build full-stack products — React/Next.js on the front, Go and Python on the back, AWS holding it all together (mostly). Lately I've been pulled into the GenAI rabbit hole: become an AI engineer before Skynet takes on the world(sshh.. they're coming!).
  
 I'm a full-stack engineer actively becoming an AI engineer, which is a more honest sentence than most LinkedIn headlines.
+
+## Stack
+ 
+`TypeScript` · `React` / `Next.js` · `Go` · `Python` · `AWS` · `Docker`
 
 ## Also True About Me
  
